@@ -10,11 +10,13 @@ O PyTorch define uma classe chamada Tensor (``torch.Tensor``) para armazenar e o
 
 
 
+Links de estudo:
 
+* [Tutorial Pytorch: guia rápida para entender os fundamentos do Pytorch](https://insightlab.ufc.br/tutorial-pytorch-um-guia-rapido-para-voce-entender-agora-os-fundamentos-do-pytorch/)
 
+* [Construindo uma Rede Neural do zero | Pytorch](https://medium.com/turing-talks/construindo-uma-rede-neural-do-zero-pytorch-671ee06fbbe1)
 
-
-
+* [Primeiros passos com Pytorch](https://www.alura.com.br/artigos/primeiros-passos-com-pytorch)
 
 
 
